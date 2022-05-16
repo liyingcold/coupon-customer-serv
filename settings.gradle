@@ -1,0 +1,5 @@
+rootProject.name = 'coupon-customer-serv'
+include 'coupon-customer-api'
+include 'coupon-customer-dao'
+include 'coupon-customer-impl'
+
